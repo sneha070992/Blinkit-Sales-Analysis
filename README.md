@@ -1,2 +1,2 @@
 # Blinkit-Sales-Analysis
-Dataanalysis for blinkit.
+Data analysis for blinkit.
